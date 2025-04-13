@@ -53,10 +53,10 @@ The application will be available at `http://localhost:3000`
 
 ## 📞 Contact Us
 
-We're available 7 days a week to answer your questions:
-- 📧 care@helpersforelders.com
-- ☎️ (555) 123-4567
-- 📍 123 Care Avenue, Suite 500, Hopeville, NY 10001
+We're available to answer your questions:
+- 📧 Email: helpersforelders@gmail.com
+- ☎️ Phone: Contact us through our website
+- 📍 Visit our website for office locations
 
 ## 💖 Join Our Journey
 
